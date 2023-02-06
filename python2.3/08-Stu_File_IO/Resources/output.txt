@@ -1,0 +1,3 @@
+the total costumer visits are 4945
+The total number of days in sample are 100
+the average number of visits are 49.45
