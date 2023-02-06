@@ -1,0 +1,5 @@
+from pathlib import Path
+pp= Path('./opt/anaconda3/lib/python3.9/site-packages (1.4.2')
+import pandas as pd
+pf = 2*4
+print(pf)
